@@ -1,0 +1,8 @@
+Time,header.seq,header.stamp.secs,header.stamp.nsecs,header.frame_id,level,name,msg,file,function,line,topics
+1610057133.1261394,3,1610057133,95869612,,2,/record_1610057133008770940,Subscribing to /rosout,/tmp/binarydeb/ros-melodic-rosbag-1.14.10/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,213,['/rosout']
+1610057133.126322,4,1610057133,101766535,,2,/record_1610057133008770940,Subscribing to /rosout_agg,/tmp/binarydeb/ros-melodic-rosbag-1.14.10/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,213,['/rosout']
+1610057133.1263473,5,1610057133,106356063,,2,/record_1610057133008770940,Subscribing to /received_messages,/tmp/binarydeb/ros-melodic-rosbag-1.14.10/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,213,['/rosout']
+1610057133.1263793,6,1610057133,110700625,,2,/record_1610057133008770940,Subscribing to /clock,/tmp/binarydeb/ros-melodic-rosbag-1.14.10/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,213,['/rosout']
+1610057133.1265223,7,1610057133,114698042,,2,/record_1610057133008770940,Subscribing to /imu/imu_data,/tmp/binarydeb/ros-melodic-rosbag-1.14.10/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,213,['/rosout']
+1610057133.126547,8,1610057133,118925481,,2,/record_1610057133008770940,Subscribing to /can/unknown_ids,/tmp/binarydeb/ros-melodic-rosbag-1.14.10/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,213,['/rosout']
+1610057133.3560016,8,1608659004,57026583,,2,/CAN_node,Successfully connected to can0.,/home/bfft-agx-1/catkin_ws/src/ros_canopen/socketcan_bridge/src/socketcan_to_topic_node.cpp,main,57,['/rosout']
